@@ -1,0 +1,176 @@
+[
+    {
+		
+        "_id": 			"co-05",
+        "_parentId": 	"course",
+        "_type": 		"page",
+        "_classes": 	"",
+        "_htmlClasses": "",
+		"pageBody": 	"",
+		
+
+		
+		"_tin":			"00127",	
+		"_proofing":	"TINs/00127", 	 
+        
+		
+		"productionCode": 	"MGT6MDI", 			
+		"topicNum": 		"1",			
+		"title": 			"An introduction to managing diversity, equity and inclusion",
+        "displayTitle": 	"An introduction to managing diversity, equity and inclusion",
+		"_didasko": {
+			"_pageHeader": {
+				"_backgroundImage": {
+					"_large": 	"course/en/images/banner.jpg",
+					"_medium": 	"course/en/images/banner.jpg",
+					"_small": 	"course/en/images/banner.jpg"
+				}
+			}
+		},
+
+		
+        "body": 		"<p>In this topic you will learn about the following.</p><ul><li>The meaning of workplace diversity, equity, and inclusion</li><li>Benefits of a diverse workforce</li><li>Strategies to measure diversity and inclusion within a workplace</li></ul>",
+        "instruction": 	"",
+
+		
+		"_menuData": {
+
+			
+			"_glossaries": {
+				"title": "Glossaries",
+				"_items": [
+					
+					{
+						"title": "Inclusive",
+						"body": "An environment where members or employees feel respected and connected to each other."
+					},
+					{
+						"title": "Bias",
+						"body": "A prejudicial viewpoint against a specific person or group."
+					},
+					{
+						"title": "Recruitment",
+						"body": "The process of finding or attracting candidates for a position."
+					},
+					{
+						"title": "Selection",
+						"body": "The process of choosing the best candidate for a position."
+					},
+					{
+						"title": "Implicit bias",
+						"body": "Implicit bias or unconscious bias is automatic or unconscious attitudes towards others. This is usually based on stereotypes and commonly results in unfair treatment."
+					},
+					{
+						"title": "Misgendering",
+						"body": "Is when the language used to refer to a person, e.g. pronouns, doesn’t align with that person’s affirmed gender."
+					}																				
+					
+				]
+			},
+
+			
+			"_resources": {
+				"title": "Resources",
+				"_items": [
+					
+				]
+			},
+
+			
+			"_references": {
+				"title": "References",
+				"_items": [
+					
+					{
+						"body": "<p>Bezrukova K, Spell CS, Perry JL, et al. (2016) A meta-analytical integration of over 40 years of research on diversity training evaluation. <em>Psychological Bulletin</em> 142(11): 1227–1274. </p><p>Biggs, M.E. (2017). Frederick A. Miller: Leveraging Inclusion as a Breakthrough Organizational Development Strategy. In: Szabla, D.B., Pasmore, W.A., Barnes, M.A., Gipson, A.N. (eds) <em>The Palgrave Handbook of Organizational Change Thinkers.</em> Palgrave Macmillan, Cham.</p><p>Cletus, Mahmood, N. A., Umar, A., & Ibrahim, A. D. (2018). Prospects and Challenges of Workplace Diversity in Modern Day Organizations: A Critical Review. <em>Holistica : Journal of Business and Public Administration, 9</em>(2), 35–52.</p><p>Dobbin F., Kalev A. (2016). Why diversity programs fail and what works better. <em>Harvard Business Review</em>, 94(7-8), 52-60. </p><p>Ferdman, B. (2014). Toward infusing diversity and inclusion as core elements of OD. OD Practitioner, 46(4), 44-46. </p><p>Garg, S., & Sangwan, S. (2021). Literature Review on Diversity and Inclusion at Workplace, 2010–2017. <em>Vision</em>, 25(1), 12–22. </p> <p>Goswami, S. & Goswami, B. K. (2017). Exploring the relationship between workforce diversity, inclusion and employee engagement. Drishtikon: A Management Journal, 9(1), 65-89 </p><p>Hatzigeorgiou MN, McCamant KL. Cultivating a Culture: Implementing Methods to Embrace Diversity and Inclusion. Nurse Lead. 2020 Oct;18(5):426-429. </p> <p>Herrera R., Duncan P. A., Green M., Ree M., Skaggs S. L. (2011). The relationship between attitudes toward diversity management in the southwest USA and the GLOBE study cultural preferences. <em>The International Journal of Human Resource Management</em>, 22, 2629-2646. </p><p>Kalev A., Dobbin F., Kelly E. (2006). Best practices or best guesses? Assessing the efficacy of corporate affirmative action and diversity policies. <em>American Sociological Review</em>, 71, 589-617. </p><p>Miller F. & Katz J. (2002). <em>The Inclusion Breakthrough. Unleashing the Real Power of Diversity</em>. Berrett-Koehler Publishers, Inc. USA. </p><p>Noon, M. (2018). Pointless Diversity Training: Unconscious Bias, New Racism and Agency. Work, Employment & Society, 32(1), 198–209.  </p><p>Pless, N. & Maak, T. (2004). Building an inclusive diversity culture: Principles, processes and practices. <em>Journal of Business Ethics</em>, 54, 129-147. </p><p>Sabharwal M. (2014). Is diversity management sufficient? Organizational inclusion to further performance. <em>Public Personnel Management</em>, 43(2), 197–217.] </p><p>Siddiqui FR, 2014. Annotated bibliography on participatory consultations to help aid the inclusion of marginalized perspectives in setting policy agendas. <em>Int J Equity Health</em>. 13(1):1 </p><p>Stephens, P. O. (2022). <em>The role of organizational leaders in creating sustainable diversity, equity, and inclusion initiatives in the workplace</em> (Order No. 29208818).</p>  <p>Shore, L. M., Cleveland J. N., & Sanchez, C. (2018). Inclusive workplaces: A review and model. <em>Human Resource Management Review</em>, 28, 176–189. </p>"
+					}
+					
+				]
+			},
+
+			
+			"_credits": {
+				"title": "Credits",
+				"_items": [
+					{
+						"role": "Authors",
+						"names": [
+							"Naomi Holding",
+							"Kathy McInnes"
+						]
+					},
+					{
+						"role": "Product Manager",
+						"names": [
+							"Andrew Hall"
+						]
+					},
+					{
+						"role": "Production Manager",
+						"names": [
+							"Madelyn Kinch"
+						]
+					},
+					{
+						"role": "Subject Matter Expert",
+						"names": [
+							
+						]
+					},
+					{
+						"role": "Developmental Editors",
+						"names": [
+							
+						]
+					},
+					{
+						"role": "Editor / Proofreader",
+						"names": [
+							"Matthew Wright"							
+						]
+					},
+					{
+						"role": "Lead Developer",
+						"names": [
+							"Milton Plotkin"
+						]
+					},
+					{
+						"role": "Multimedia Developers",
+						"names": [
+							"Gerard Perena",
+							"Meines Lim",
+							"Steven Tan"
+						]
+					},
+					{
+						"role": "Instructional Designer",
+						"names": [
+							
+						]
+					},
+					{
+						"role": "Cover design",
+						"names": [
+							"David Woloszyn"
+						]
+					}
+				]
+			}
+		},
+
+		
+		"_graphic": {
+            "src": "course/en/images/menu-item.png",
+            "alt": "Placeholder graphic."
+        },
+        "linkText": 	"View",
+        "duration": 	"2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    }
+]
