@@ -1,0 +1,21 @@
+{
+	"course": {
+		"tin": "XXXXX",
+		"productionCode": "XXX",
+		"unitTitle": "Sample SIT showcase",
+		"topicTitle": ""
+	},
+	"build": {
+		"date": "09/11/2023, 16:05:52",
+		"fwkRevision": "4edff82a0995c97f195c171eca5fc95e258fb54c",
+		"courseRevision": "af3a66284f1de7977f31f603d484e7cbd3e07952",
+		"courseOrigin": "https://MiltonPlotkin@bitbucket.org/digitallearningresources/hybrid-course.git",
+		"modes": [
+			"build"
+		],
+		"modifiers": [],
+		"removedBlocks": [],
+		"includes": [],
+		"excludes": []
+	}
+}
