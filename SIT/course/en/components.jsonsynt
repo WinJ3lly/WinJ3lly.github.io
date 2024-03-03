@@ -1,7 +1,9 @@
 [
 	<<<! === Block 1 ============================================================================================== !>>>
-		{
-		"__origin__": "SIT80-2-36.hblock",
+
+	
+	{
+		"__origin__": "SIT88-1-9.hblock",
 
 		"_id": 				"",
 		"_parentId": 		"b-1",
@@ -10,24 +12,24 @@
 	
 		<<<! Background !>>>
 		"_background": {
-			"src": 			"course/en/images/b-11/pic-0.jpg",
+			"_isEnabled": 	true,
+			"src": 			"course/en/images/b-1/pic-0.jpg",
 			"color": 		"#ffffff"
 		},
 	
 		<<<! Standup !>>>
-		"title": 			"Group 2 – What measures can be implemented to support gender equality??",
+		"title": 			"Supply chains in event management",
 		"body": <<<"
-			<p>The evidence collected by the Workplace Gender Equality Agency shows that women are experiencing structural and cultural discrimination, making it harder for them to move up the management ranks.</p>
-			<p>It also found that companies who fail to engage, retain and promote women during their critical childbearing and career acceleration years incur considerable labour turnover costs. Despite this, many companies don’t have clear strategies regarding flexible work – nearly half have flexible work policies, but only 13.6% had a strategy to support it.</p>
+			<p>There are several key components that make up the supply chain of the event management industry.</p>
 		">>>,
-		"instruction": 		"Learn strategies for improving gender equality.",
+		"instruction": 		"Learn more about the various components of the supply chain.",
 		"_invertColor": 	false,
 	
 		<<<! Grid !>>>
 		"_grid": {
 			"_areas": [
 				[ 	"", 			"", 			""],
-				[ 	"s38", 			"", 			""],
+				[ 	"s31", 			"", 			""],
 				[ 	"", 			"", 			""]
 			],
 			"_customs": [			]
@@ -36,76 +38,137 @@
 		<<<! Items !>>>
 		"_items": [
 			{
-				"title": 		"",
+				"title": 		"Suppliers",
 				"body": <<<"
-					<ul>
-						<li>Address stereotypes, particularly in regard to traditional roles held by men and women.</li>
-						<li>Review recruitment and selection procedures for bias and indirect discrimination.</li>
-						<li>Develop a clear policy on flexible work, and a strategy to support it.</li>
-						<li>Develop a remuneration policy that is transparent and clearly conveyed to staff.</li>
-						<li>Train women in negotiation skills for women, particularly in how to better represent themselves in pay negotiations.</li>
-						<li>Establish and refer women to networking groups, for example, a successful women in business group.</li>
-						<li>Establish in-house mentoring and leadership programs.</li>
-					</ul>
+
+					<p>The first group within the supply chain are the suppliers which contain food and beverage (F&B) producers or suppliers, water and energy suppliers, stage production suppliers, equipment hire and event styling suppliers, event staff hire and live entertainment performers, marketing agencies and transportation suppliers. These suppliers are an essential component of the event supply chain as they provide all the necessary resources required to host an event. They are the main reason why an event can take place within a location.</p>
 				">>>,
 				"_background": {
-					"src": 			"course/en/images/b-11/pic-1.jpg",
+					"_isEnabled": 	true,
+					"src": 			"",
 					"color": 		"#ffffff"
 				},
 				"_grid": {
 					"_areas": [
+						[ 	"", 			"s100", 			""],
+						[ 	"", 			"a100", 			""],
+						[ 	"", 			"", 			""]
+					],
+					"_customs": [
+						{
+							"body": <<<"
+								{{{stickyElement id="se1" itemIdx=0}}}
+							">>>
+						}
+					]
+				},
+				"_theme": 		"",	 <<<@ "" | "bubble" | "paper" @>>>
+				"_classes": 	""
+			},
+			{
+				"title": 		"Distributors",
+				"body": <<<"
+					<p>There are the distributors within the supply chain which distribute the goods and services provided by the suppliers to the customers. The distributors include the event management agency, venue operator, hotel and caterers.</p>
+				">>>,
+				"_background": {
+					"_isEnabled": 	true,
+					"src": 			"",
+					"color": 		"#ffffff"
+				},
+				"_grid": {
+					"_areas": [
+						[ 	"", 			"s100", 			""],
+						[ 	"", 			"a100", 			""],
+						[ 	"", 			"", 			""]
+					],
+					"_customs": [
+						{
+							"body": <<<"
+								{{{stickyElement id="se1" itemIdx=1}}}
+							">>>
+						}
+					]
+				},
+				"_theme": 		"",	 <<<@ "" | "bubble" | "paper" @>>>
+				"_classes": 	""
+			},
+			{
+				"title": 		"Customers",
+				"body": <<<"
+					<p>Customers are the event attendees and guests. These could include event participants, sponsors, VIPs and other community groups interested in attending the event. Customers can also include clients responsible for providing goods and services at the event.</p>
+					<p>Every component in the supply chain is equally important. For example, the customer or client is the one that creates the demand, and the suppliers create the products to meet the demand. Meanwhile the hotel, event management business and caterer distribute the products made by the suppliers to meet the demands of the client.</p>
+				">>>,
+				"_background": {
+					"_isEnabled": 	true,
+					"src": 			"",
+					"color": 		"#ffffff"
+				},
+				"_grid": {
+					"_areas": [
+						[ 	"", 			"s100", 			""],
+						[ 	"", 			"a100", 			""],
+						[ 	"", 			"", 			""]
+					],
+					"_customs": [
+						{
+							"body": <<<"
+								{{{stickyElement id="se1" itemIdx=2}}}
+							">>>
+						}
+					]
+				},
+				"_theme": 		"",	 <<<@ "" | "bubble" | "paper" @>>>
+				"_classes": 	""
+			},
+			{
+				"title": 		"",
+				"body": <<<"
+					<p>Understanding the supply chain helps you identify the various ways the events industry connects with allied industries. You will learn more about this a little later.</p>
+					<p>For now, click to the next screen to see what career opportunities exist within the events industry.</p>
+				">>>,
+				"_background": {
+					"_isEnabled": 	true,
+					"src": 			"course/en/images/b-1/pic-4.jpg",
+					"color": 		"#ffffff"
+				},
+				"_grid": {
+					"_areas": [
+						[ 	"s41", 			"", 			""],
 						[ 	"", 			"", 			""],
-						[ 	"", 			"", 			"s51"],
 						[ 	"", 			"", 			""]
 					]
 				},
 				"_theme": 		"bubble",	 <<<@ "" | "bubble" | "paper" @>>>
 				"_classes": 	""
-			},
-			{
-				"title": 		"Reporting on gender equality",
-				"body": <<<"
-					<p>The <em>Workplace Gender Equality Amendment (Closing the Gender Pay Gap) Bill 2023</em> requires non-public sector employers with 100 or more employees (including contract, casual and part-time workers) to report annually on their gender diversity to the Workplace Gender Equality Agency. Employers have to report against six GEIs (gender equality indicators) such as gender composition, remuneration strategy and flexible working arrangements. This information helps the government to gather data on progress towards equality and to help organisations with strategies to improve their results.</p>
-					<p>The public sector and workplaces with 500 or more employees have additional compliance and reporting requirements.</p>
-					
-
-					{{{extraLearning id="e1"}}}
-				">>>,
-				"_background": {
-					"src": 			"course/en/images/b-11/pic-2.jpg",
-					"color": 		"#ffffff"
-				},
-				"_grid": {
-					"_areas": [
-						[ 	"", 			"", 			""],
-						[ 	"s44", 			"", 			""],
-						[ 	"", 			"", 			""]
-					]
-				},
-				"_theme": 		"",	 <<<@ "" | "bubble" | "paper" @>>>
-				"_classes": 	""
 			}
 		],
+
+		"_stickyElement": {
+			"_isEnabled": 	true,
 		
-		"_extraLearning": {
+			<<<! Items !>>>
 			"_items": [
 				{
-					"_id": 			"e1",
-					"_classes": 	"",
-					"_type":		"digdeeper", <<<@ "digdeeper" | "funfact" | "healthychoices" | "hottip" | "nutshell" @>>>
-					"title": 		"",
+					"_id": 	"se1",
 					"body": <<<"
-						<p>Visit the {{#hyperlink href="https://www.wgea.gov.au/"}}WGEA website{{/hyperlink}} and search for ‘2022 EOCGE citation virtual event’. Watch the video to learn about the Employer of Choice for Gender Equality (EOCGE) citation (businesses that have been awarded the EOCGE) for ideas of what you could include in your diversity policy to improve gender equality.</p>
+						<h3 style="font-weight: bold; color: inherit;">Supply chain</h3>
+						{{#flex stack=true}}
+							<div {{{se_hide idx="!0"}}} >{{{img src="course/en/images/b-1/pic-1.svg"}}}</div>
+							<div {{{se_hide idx="!1"}}} >{{{img src="course/en/images/b-1/pic-2.svg"}}}</div>
+							<div {{{se_hide idx="!2"}}} >{{{img src="course/en/images/b-1/pic-3.svg"}}}</div>
+						{{/flex}}
+						
 					">>>
 				}
 			]
 		},
-		
+
 		<<<~
 		"_layout": 			"full",
 		"_type": 			"component"
 		~>>>
-	},	
+	},
+	
 	
 	
 	<<<! === Block 2 ============================================================================================== !>>>
@@ -1493,9 +1556,9 @@
 		~>>>
 	},
 	<<<! === Block 11 ============================================================================================== !>>>
-
+	
 	{
-		"__origin__": "SIT88-1-9.hblock",
+		"__origin__": "SIT80-2-36.hblock",
 
 		"_id": 				"",
 		"_parentId": 		"b-11",
@@ -1504,24 +1567,24 @@
 	
 		<<<! Background !>>>
 		"_background": {
-			"_isEnabled": 	true,
-			"src": 			"course/en/images/b-1/pic-0.jpg",
+			"src": 			"course/en/images/b-11/pic-0.jpg",
 			"color": 		"#ffffff"
 		},
 	
 		<<<! Standup !>>>
-		"title": 			"Supply chains in event management",
+		"title": 			"Group 2 – What measures can be implemented to support gender equality?",
 		"body": <<<"
-			<p>There are several key components that make up the supply chain of the event management industry.</p>
+			<p>The evidence collected by the Workplace Gender Equality Agency shows that women are experiencing structural and cultural discrimination, making it harder for them to move up the management ranks.</p>
+			<p>It also found that companies who fail to engage, retain and promote women during their critical childbearing and career acceleration years incur considerable labour turnover costs. Despite this, many companies don’t have clear strategies regarding flexible work – nearly half have flexible work policies, but only 13.6% had a strategy to support it.</p>
 		">>>,
-		"instruction": 		"Learn more about the various components of the supply chain.",
+		"instruction": 		"Learn strategies for improving gender equality.",
 		"_invertColor": 	false,
 	
 		<<<! Grid !>>>
 		"_grid": {
 			"_areas": [
 				[ 	"", 			"", 			""],
-				[ 	"s31", 			"", 			""],
+				[ 	"s38", 			"", 			""],
 				[ 	"", 			"", 			""]
 			],
 			"_customs": [			]
@@ -1530,136 +1593,77 @@
 		<<<! Items !>>>
 		"_items": [
 			{
-				"title": 		"Suppliers",
-				"body": <<<"
-
-					<p>The first group within the supply chain are the suppliers which contain food and beverage (F&B) producers or suppliers, water and energy suppliers, stage production suppliers, equipment hire and event styling suppliers, event staff hire and live entertainment performers, marketing agencies and transportation suppliers. These suppliers are an essential component of the event supply chain as they provide all the necessary resources required to host an event. They are the main reason why an event can take place within a location.</p>
-				">>>,
-				"_background": {
-					"_isEnabled": 	true,
-					"src": 			"",
-					"color": 		"#ffffff"
-				},
-				"_grid": {
-					"_areas": [
-						[ 	"", 			"s100", 			""],
-						[ 	"", 			"a100", 			""],
-						[ 	"", 			"", 			""]
-					],
-					"_customs": [
-						{
-							"body": <<<"
-								{{{stickyElement id="se1" itemIdx=0}}}
-							">>>
-						}
-					]
-				},
-				"_theme": 		"",	 <<<@ "" | "bubble" | "paper" @>>>
-				"_classes": 	""
-			},
-			{
-				"title": 		"Distributors",
-				"body": <<<"
-					<p>There are the distributors within the supply chain which distribute the goods and services provided by the suppliers to the customers. The distributors include the event management agency, venue operator, hotel and caterers.</p>
-				">>>,
-				"_background": {
-					"_isEnabled": 	true,
-					"src": 			"",
-					"color": 		"#ffffff"
-				},
-				"_grid": {
-					"_areas": [
-						[ 	"", 			"s100", 			""],
-						[ 	"", 			"a100", 			""],
-						[ 	"", 			"", 			""]
-					],
-					"_customs": [
-						{
-							"body": <<<"
-								{{{stickyElement id="se1" itemIdx=1}}}
-							">>>
-						}
-					]
-				},
-				"_theme": 		"",	 <<<@ "" | "bubble" | "paper" @>>>
-				"_classes": 	""
-			},
-			{
-				"title": 		"Customers",
-				"body": <<<"
-					<p>Customers are the event attendees and guests. These could include event participants, sponsors, VIPs and other community groups interested in attending the event. Customers can also include clients responsible for providing goods and services at the event.</p>
-					<p>Every component in the supply chain is equally important. For example, the customer or client is the one that creates the demand, and the suppliers create the products to meet the demand. Meanwhile the hotel, event management business and caterer distribute the products made by the suppliers to meet the demands of the client.</p>
-				">>>,
-				"_background": {
-					"_isEnabled": 	true,
-					"src": 			"",
-					"color": 		"#ffffff"
-				},
-				"_grid": {
-					"_areas": [
-						[ 	"", 			"s100", 			""],
-						[ 	"", 			"a100", 			""],
-						[ 	"", 			"", 			""]
-					],
-					"_customs": [
-						{
-							"body": <<<"
-								{{{stickyElement id="se1" itemIdx=2}}}
-							">>>
-						}
-					]
-				},
-				"_theme": 		"",	 <<<@ "" | "bubble" | "paper" @>>>
-				"_classes": 	""
-			},
-			{
 				"title": 		"",
 				"body": <<<"
-					<p>Understanding the supply chain helps you identify the various ways the events industry connects with allied industries. You will learn more about this a little later.</p>
-					<p>For now, click to the next screen to see what career opportunities exist within the events industry.</p>
+					<ul>
+						<li>Address stereotypes, particularly in regard to traditional roles held by men and women.</li>
+						<li>Review recruitment and selection procedures for bias and indirect discrimination.</li>
+						<li>Develop a clear policy on flexible work, and a strategy to support it.</li>
+						<li>Develop a remuneration policy that is transparent and clearly conveyed to staff.</li>
+						<li>Train women in negotiation skills for women, particularly in how to better represent themselves in pay negotiations.</li>
+						<li>Establish and refer women to networking groups, for example, a successful women in business group.</li>
+						<li>Establish in-house mentoring and leadership programs.</li>
+					</ul>
 				">>>,
 				"_background": {
-					"_isEnabled": 	true,
-					"src": 			"course/en/images/b-1/pic-4.jpg",
+					"src": 			"course/en/images/b-11/pic-1.jpg",
 					"color": 		"#ffffff"
 				},
 				"_grid": {
 					"_areas": [
-						[ 	"s41", 			"", 			""],
 						[ 	"", 			"", 			""],
+						[ 	"", 			"", 			"s51"],
 						[ 	"", 			"", 			""]
 					]
 				},
 				"_theme": 		"bubble",	 <<<@ "" | "bubble" | "paper" @>>>
 				"_classes": 	""
+			},
+			{
+				"title": 		"Reporting on gender equality",
+				"body": <<<"
+					<p>The <em>Workplace Gender Equality Amendment (Closing the Gender Pay Gap) Bill 2023</em> requires non-public sector employers with 100 or more employees (including contract, casual and part-time workers) to report annually on their gender diversity to the Workplace Gender Equality Agency. Employers have to report against six GEIs (gender equality indicators) such as gender composition, remuneration strategy and flexible working arrangements. This information helps the government to gather data on progress towards equality and to help organisations with strategies to improve their results.</p>
+					<p>The public sector and workplaces with 500 or more employees have additional compliance and reporting requirements.</p>
+					
+
+					{{{extraLearning id="e1"}}}
+				">>>,
+				"_background": {
+					"src": 			"course/en/images/b-11/pic-2.jpg",
+					"color": 		"#ffffff"
+				},
+				"_grid": {
+					"_areas": [
+						[ 	"", 			"", 			""],
+						[ 	"s44", 			"", 			""],
+						[ 	"", 			"", 			""]
+					]
+				},
+				"_theme": 		"",	 <<<@ "" | "bubble" | "paper" @>>>
+				"_classes": 	""
 			}
 		],
-
-		"_stickyElement": {
-			"_isEnabled": 	true,
 		
-			<<<! Items !>>>
+		"_extraLearning": {
 			"_items": [
 				{
-					"_id": 	"se1",
+					"_id": 			"e1",
+					"_classes": 	"",
+					"_type":		"digdeeper", <<<@ "digdeeper" | "funfact" | "healthychoices" | "hottip" | "nutshell" @>>>
+					"title": 		"",
 					"body": <<<"
-						<h3 style="font-weight: bold; color: inherit;">Supply chain</h3>
-						{{#flex stack=true}}
-							<div {{{se_hide idx="!0"}}} >{{{img src="course/en/images/b-1/pic-1.svg"}}}</div>
-							<div {{{se_hide idx="!1"}}} >{{{img src="course/en/images/b-1/pic-2.svg"}}}</div>
-							<div {{{se_hide idx="!2"}}} >{{{img src="course/en/images/b-1/pic-3.svg"}}}</div>
-						{{/flex}}
-						
+						<p>Visit the {{#hyperlink href="https://www.wgea.gov.au/"}}WGEA website{{/hyperlink}} and search for ‘2022 EOCGE citation virtual event’. Watch the video to learn about the Employer of Choice for Gender Equality (EOCGE) citation (businesses that have been awarded the EOCGE) for ideas of what you could include in your diversity policy to improve gender equality.</p>
 					">>>
 				}
 			]
 		},
-
+		
 		<<<~
 		"_layout": 			"full",
 		"_type": 			"component"
 		~>>>
 	},
+	
 
 	<<<! === Block 12 ============================================================================================== !>>>
 	{
